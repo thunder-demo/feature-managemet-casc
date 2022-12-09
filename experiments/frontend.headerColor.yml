@@ -6,6 +6,9 @@ value:
   - from: 2022-08-30T20:45:10.408Z
     percentage: 30
     option: true
-  - from: 2022-09-14T23:00:00.000Z
+  - from: 2022-12-09T23:00:00.000Z
+    percentage: 70
+    option: true
+  - from: 2022-12-16T19:00:00.000Z
     percentage: 100
     option: true
