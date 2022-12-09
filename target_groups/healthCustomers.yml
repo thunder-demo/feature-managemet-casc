@@ -1,0 +1,8 @@
+type: target-group
+name: healthCustomers
+conditions:
+  - operator: in-array
+    property: accountType
+    operand:
+      - health
+      - all-in-one
