@@ -2,4 +2,4 @@
 type: experiment
 enabled: false
 flag: frontend.contrastButtons
-value: false
+value: true
