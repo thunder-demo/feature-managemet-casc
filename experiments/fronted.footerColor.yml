@@ -5,4 +5,4 @@ conditions:
   - group:
       name: betaUsers
     value: true
-value: true
+value: false
