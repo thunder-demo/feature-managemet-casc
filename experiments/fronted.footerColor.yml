@@ -4,6 +4,8 @@ enabled: false
 flag: fronted.footerColor
 conditions:
   - group:
-      name: betaUsers
+      name:
+        - betaUsers
+        - visionCustomers
     value: true
 value: false
