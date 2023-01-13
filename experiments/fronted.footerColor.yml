@@ -8,4 +8,4 @@ conditions:
         - betaUsers
         - visionCustomers
     value: true
-value: false
+value: true
