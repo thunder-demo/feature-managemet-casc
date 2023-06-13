@@ -2,4 +2,4 @@
 type: experiment
 enabled: false
 flag: frontend.headerDropdown
-value: true
+value: false
