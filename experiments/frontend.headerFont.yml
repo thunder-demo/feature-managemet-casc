@@ -2,4 +2,4 @@
 type: experiment
 enabled: false
 flag: frontend.headerFont
-value: true
+value: false
