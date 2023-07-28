@@ -2,5 +2,15 @@
 type: experiment
 flag: frontend.contrastButtons
 value:
-  - percentage: 50
+  - from: 2023-07-28T16:55:45.542Z
+    percentage: 20
+    option: true
+  - from: 2023-08-04T06:00:00.000Z
+    percentage: 50
+    option: true
+  - from: 2023-08-11T06:00:00.000Z
+    percentage: 75
+    option: true
+  - from: 2023-08-18T06:00:00.000Z
+    percentage: 100
     option: true
