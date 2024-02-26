@@ -2,4 +2,4 @@
 type: experiment
 enabled: false
 flag: frontend.headerColor
-value: ture
+value: true
