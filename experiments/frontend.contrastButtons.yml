@@ -1,9 +1,6 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
 flag: frontend.contrastButtons
-conditions:
-  - property:
-      name: isBetaUser
-      operator: is-true
-    value: false
-value: false
+value:
+  - percentage: 50
+    option: true
