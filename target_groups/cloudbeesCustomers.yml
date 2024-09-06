@@ -1,0 +1,6 @@
+type: target-group
+name: cloudbeesCustomers
+conditions:
+  - operator: regex
+    property: email
+    operand: '*@cloudbees.com'
