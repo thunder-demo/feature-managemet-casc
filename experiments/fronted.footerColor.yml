@@ -1,7 +1,5 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
-labels:
-  - snake-game
 enabled: false
 flag: fronted.footerColor
 value: false
