@@ -1,5 +1,7 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
+labels:
+  - example-label
 enabled: false
 flag: frontend.headerColor
 value: true
