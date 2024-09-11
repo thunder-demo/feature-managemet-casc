@@ -2,4 +2,9 @@
 type: experiment
 enabled: false
 flag: frontend.headerDropdown
+conditions:
+  - property:
+      name: isBetaUser
+      operator: is-true
+    value: false
 value: false
