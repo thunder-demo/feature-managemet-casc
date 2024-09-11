@@ -1,0 +1,6 @@
+type: target-group
+name: CPF-group
+conditions:
+  - operator: eq
+    property: cpf-number
+    operand: 312434
