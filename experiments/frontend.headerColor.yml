@@ -4,6 +4,11 @@ labels:
   - example-label
   - new-user
 flag: frontend.headerColor
+conditions:
+  - property:
+      name: isBetaUser
+      operator: is-true
+    value: true
 value:
   - from: 2024-09-11T14:34:01.678Z
     percentage: 25
