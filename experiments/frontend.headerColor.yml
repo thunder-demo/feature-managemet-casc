@@ -3,7 +3,6 @@ type: experiment
 labels:
   - example-label
   - new-user
-enabled: false
 flag: frontend.headerColor
 value:
   - from: 2024-09-11T14:34:01.678Z
