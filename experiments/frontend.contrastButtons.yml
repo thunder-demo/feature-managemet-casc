@@ -2,5 +2,5 @@
 type: experiment
 flag: frontend.contrastButtons
 value:
-  - percentage: 50
+  - percentage: 90
     option: true
