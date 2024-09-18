@@ -4,8 +4,7 @@ labels:
   - snake-game
 flag: snakeGame.release
 conditions:
-  - property:
-      name: isBetaUser
-      operator: is-true
+  - group:
+      name: betaUsers
     value: true
 value: false
