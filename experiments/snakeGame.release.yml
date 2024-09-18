@@ -3,4 +3,9 @@ type: experiment
 labels:
   - snake-game
 flag: snakeGame.release
+conditions:
+  - property:
+      name: isBetaUser
+      operator: is-true
+    value: true
 value: false
