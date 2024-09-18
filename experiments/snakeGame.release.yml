@@ -2,4 +2,9 @@
 type: experiment
 enabled: false
 flag: snakeGame.release
+conditions:
+  - property:
+      name: isBetaUser
+      operator: is-true
+    value: true
 value: false
