@@ -2,6 +2,5 @@
 type: experiment
 labels:
   - snake-game
-enabled: false
 flag: snakeGame.release
 value: false
